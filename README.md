@@ -2,6 +2,7 @@
 hello
 
 R筆記–(2)基本資料型態, https://rpubs.com/skydome20/R-Note2-dataType
+R筆記–(3)套件與函式, https://rpubs.com/skydome20/R-Note3-function_and_package
 
 [A1] 資料分析基礎班 課程教材, https://github.com/dspim/A1-basic-data-analysis
 

@@ -1,6 +1,8 @@
 # R
 hello
 
+
+skydome20 https://rpubs.com/skydome20/   
 R筆記–(2)基本資料型態, https://rpubs.com/skydome20/R-Note2-dataType    
 R筆記–(3)套件與函式, https://rpubs.com/skydome20/R-Note3-function_and_package
 
